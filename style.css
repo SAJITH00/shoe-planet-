@@ -147,6 +147,8 @@ img {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
+  margin: 0;
+  padding-top: 20px;
 }
 .card {
   position: relative;
